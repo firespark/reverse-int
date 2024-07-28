@@ -1,5 +1,5 @@
 const reverse = require('./src');
 
-const reverse = reverse(302);
+const reverseNumber = reverse(302);
 
-console.log(reverse);
+console.log(reverseNumber);
